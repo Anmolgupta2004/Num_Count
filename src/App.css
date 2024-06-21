@@ -1,0 +1,39 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  overflow: hidden;
+  background: rgba(128, 128, 128, 0.144);
+}
+.app{
+ text-align: center;
+}
+.message{
+  margin-top: 20px;
+  font-size: 25px;
+}
+.app h1{
+    font-size: 60px;
+  }
+  .counter{
+   margin-top: 60px; 
+  }
+  .add{
+    margin-left: 115px;
+    margin-top: 10px;
+    margin-right: 115px;
+  }
+  .undo-redo{
+   margin-top: 60px;
+    width: 100%;
+  }
+  .progress-bar{
+    text-align: center;
+    }
+.progress{
+justify-content: center;
+}
+.note{
+  font-size: large;
+  margin-top: 30px;
+}
+  
